@@ -20,6 +20,7 @@ This is my portfolio
 <img align="left" title="Pandas" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" title="Matplotlib" alt="Matplotlib" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="padding-right:10px;" />
 <img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;" />
+<img align="left" title="Power BI" alt="Power BI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10px;" />
 <br/ >
 
 # 
