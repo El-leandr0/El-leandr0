@@ -1,3 +1,4 @@
+[Deep Learning Group Project24_25.pdf](https://github.com/user-attachments/files/20747907/Deep.Learning.Group.Project24_25.pdf)
 # Nuno Leandro
 **` Recent graduate in data science `**
 
