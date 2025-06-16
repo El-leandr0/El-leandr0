@@ -35,15 +35,35 @@ This is my portfolio
 
 ###  📌 My past projects
 
+<details>
+  <summary> Application of Convolutional Neural Networks (CNNs) to Detect Breast Cancer </summary>
 
-- Application of convolutional neural networks (CNN's) to detect cancer in high-resolution microscopic images of breast tissue 
-      
-[Read here](https://github.com/user-attachments/files/20747939/Report.pdf)
+  - 📄 [Read Report (PDF)](https://github.com/user-attachments/files/20747939/Report.pdf)
+  - ![Preview](https://github.com/user-attachments/assets/60f94283-a062-45cd-b3fb-02ecdab8078d)
 
-![image](https://github.com/user-attachments/assets/60f94283-a062-45cd-b3fb-02ecdab8078d)
+</details>
 
-- Creation of an AI study companion by leveraging OpenAI API 
-- Multi-label classification and sentiment analysis of restaurants and reviews in Hyderabadi, India.
+
+<details>
+  <summary> AI Study Companion Using OpenAI API </summary>
+
+  - Built a personal assistant for studying using GPT models
+  - Used context-aware prompts and memory
+  - API-integrated React frontend
+
+</details>
+
+<details>
+  <summary> Multi-label Classification and Sentiment Analysis of Restaurants and Reviews in Hyderabad, India </summary>
+
+  - Used NLP and multi-label models to classify cuisine types
+  - Performed sentiment analysis on user reviews
+  - Created visual dashboards of trends
+
+</details>
+
+
+
 
 ###  Extra-curricular activities
 
