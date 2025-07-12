@@ -7,7 +7,7 @@ This is my portfolio
 
 
 
-<a href="www.linkedin.com/in/nuno-tavares-leandro"><img width="25px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/87800d98-e1af-48ca-88d9-89431be37239"/></a>
+<a href="www.linkedin.com/in/nuno-tavares-leandro/"><img width="25px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/87800d98-e1af-48ca-88d9-89431be37239"/></a>
 
 
 
