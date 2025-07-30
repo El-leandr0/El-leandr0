@@ -28,7 +28,9 @@ Welcome to my portfolio
 <img align="left" title="Matplotlib" alt="Matplotlib" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="padding-right:10px;" />
 <img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" title="Power BI" alt="Power BI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10px;" />
-<img align="left" title="Azure" alt="Power BI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="padding-right:10px;" />          
+<img align="left" title="Azure" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="padding-right:10px;" />
+<img align="left" title="Git" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" title="Stata" alt="Stata" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg" style="padding-right:10px;" />
 <br/ >
 
 # 
