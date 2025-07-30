@@ -3,7 +3,7 @@
 **` Recent graduate in data science `**
 
 
-This is my portfolio
+Welcome to my portfolio
 
 
 
@@ -17,7 +17,6 @@ This is my portfolio
 
 
 <img align="left" title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" title="SQL" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="padding-right:10px;" />
 <img align="left" title="Linux" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" title="Anaconda" alt="anaconda" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
@@ -29,6 +28,7 @@ This is my portfolio
 <img align="left" title="Matplotlib" alt="Matplotlib" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="padding-right:10px;" />
 <img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" title="Power BI" alt="Power BI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10px;" />
+<img align="left" title="Azure" alt="Power BI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="padding-right:10px;" />          
 <br/ >
 
 # 
@@ -37,20 +37,21 @@ This is my portfolio
 
 <details>
   <summary> Application of convolutional neural networks (CNNs) to detect breast cancer type </summary>
+  <br/ >
 
-  In honor of the breast cancer awareness month, me and my coleagues trained a CNN for multiclass classification of benign and malign tumors by using microscopic images  of breast tumor tissue.  Our final model achieved an F1 score (![harmonic mean of precision and recall](https://en.wikipedia.org/wiki/F-score)) of 0.83 on unseen data. Check below the model training process and my implementation of a novel medical image normalization (![Macenko et al. 2009](https://www.cs.unc.edu/~mn/sites/default/files/macenko2009.pdf)).
+  In honor of the breast cancer awareness month, me and my coleagues trained a CNN for multiclass classification of benign and malign tumors by using microscopic images  of breast tissue.  Our final model achieved an F1 score (![harmonic mean of precision and recall](https://en.wikipedia.org/wiki/F-score)) of 0.83 on unseen data. Check below the model training process and my implementation of a novel medical image normalization (![Macenko et al. 2009](https://www.cs.unc.edu/~mn/sites/default/files/macenko2009.pdf)).
+  
+<img width="1036" height="362" alt="image" src="https://github.com/user-attachments/assets/fc128582-2514-47ec-b062-543adc4407a2" />
+fig.2 legend
   
 <img width="1170" height="576" alt="image" src="https://github.com/user-attachments/assets/95689216-890d-4199-8cea-3b9e585c08e6" />
 fig.1 legend
 
-<img width="1036" height="362" alt="image" src="https://github.com/user-attachments/assets/fc128582-2514-47ec-b062-543adc4407a2" />
-
   
-  - Skills developed:
-  - made by
-  - Read more: 📄 [Read Report (PDF)](https://github.com/user-attachments/files/20747939/Report.pdf)
-  - references
-
+  - Skills developed: Python (Tensorflow, Keras, Scikitlearn)
+  - Made in collaboration with: João Capitão, Maria Rodrigues, Vidhi Rajanikante, Yehor Malakhov
+  - Made with data from:
+  - Read about our implementation: 📄 [Final report (PDF)](https://github.com/user-attachments/files/20747939/Report.pdf)
 </details>
 
 
