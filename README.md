@@ -7,7 +7,9 @@ Welcome to my portfolio
 
 
 
-<a href="www.linkedin.com/in/nuno-tavares-leandro/"><img width="25px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/87800d98-e1af-48ca-88d9-89431be37239"/></a>
+<p><a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+
 
 
 
@@ -33,22 +35,31 @@ Welcome to my portfolio
 <img align="left" title="Stata" alt="Stata" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg" style="padding-right:10px;" />
 <br/ >
 
-# 
+
 
 ###  📌 My past projects
+
+
 
 <details>
   <summary> Application of convolutional neural networks (CNNs) to detect breast cancer type </summary>
   <br/ >
+  <p>
+<img alt="React" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+
+<img alt="React" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-Scikit Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
 
   In honor of the breast cancer awareness month, me and my coleagues trained a CNN for multiclass classification of benign and malign tumors by using microscopic images  of breast tissue.  Our final model achieved an F1 score (![harmonic mean of precision and recall](https://en.wikipedia.org/wiki/F-score)) of 0.83 on unseen data. Check below the model training process and my implementation of a novel medical image normalization (![Macenko et al. 2009](https://www.cs.unc.edu/~mn/sites/default/files/macenko2009.pdf)).
   
 <img width="1036" height="362" alt="image" src="https://github.com/user-attachments/assets/fc128582-2514-47ec-b062-543adc4407a2" />
 <center> Centered text </center>
+<p align="center"> Figure 1: Before and after image normalization </p>
   
 <img width="1170" height="576" alt="image" src="https://github.com/user-attachments/assets/95689216-890d-4199-8cea-3b9e585c08e6" />
-fig.1 legend
-
+<p align="center"> Figure 2: Plots of the accuracy and loss on training and validation sets on the model training process </p>
   
   - Skills developed: Python (Tensorflow, Keras, Scikitlearn)
   - Made in collaboration with: João Capitão, Maria Rodrigues, Vidhi Rajanikante, Yehor Malakhov
