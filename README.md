@@ -66,6 +66,7 @@ Welcome to my portfolio
   - Made in collaboration with: João Capitão, Maria Rodrigues, Vidhi Rajanikante, Yehor Malakhov
   - Made with data from:
   - Read about our implementation: 📄 [Final report (PDF)](https://github.com/user-attachments/files/20747939/Report.pdf)
+  - References:
 ---
 </details>
 
@@ -98,11 +99,28 @@ Check our website: https://aurora4youcp.wixsite.com/aurora
 
 <details>
   <summary> Multi-label Classification and Sentiment Analysis of Restaurants and Reviews in Hyderabad, India </summary>
+  <br/ >
+  <p>
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<img alt="NLTK" src="https://img.shields.io/badge/-NLTK-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<img alt="Scikit Learn" src="https://img.shields.io/badge/-Scikit Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img alt="Plotly" src="https://img.shields.io/badge/-Plotly-7A76FF?style=flat-square&logo=plotly&logoColor=white" />
 
-  - Used NLP and multi-label models to classify cuisine types
-  - Performed sentiment analysis on user reviews
-  - Created visual dashboards of trends
+    
+</p>
 
+  This project was created by students partaking their final year of Data Science Bachelor's at NOVA Information Management School. In lieu of the Capstone Project Course, a fictional company, Aurora, was created. Aurora was created with the purpose of enhancing students’ academic journeys by leveraging AI for dynamic, personalized learning experiences that improve his/her engagement, motivation, and academic success. Aurora reaches to become the trusted, go-to study companion for students, offering a simple, engaging, and effective way to learn.
+
+Aurora was created to address the challenges students face with traditional educational tools, often lacking personalization, interactivity, and emotional support. The company's AI-powered chatbot serves as a personalized learning companion, offering tailored tools and resources to make studying and learning more effective and enjoyable.
+
+<img width="619" height="466" alt="image" src="https://github.com/user-attachments/assets/9ea5d15a-5498-4b22-9704-1ca28bbfb2c9" />
+
+  
+  - Made in collaboration with: João Capitão, Maria Rodrigues, Vidhi Rajanikante, Yehor Malakhov
+  - Made with data from:
+---
 </details>
 
 <details>
