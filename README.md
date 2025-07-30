@@ -93,7 +93,7 @@ Welcome to my portfolio
 Aurora was created to address the challenges students face with traditional educational tools, often lacking personalization, interactivity, and emotional support. The company's AI-powered chatbot serves as a personalized learning companion, offering tailored tools and resources to make studying and learning more effective and enjoyable.
 Check our website: https://aurora4youcp.wixsite.com/aurora
   
-  - Made in collaboration with: João Capitão, Maria Rodrigues, Vidhi Rajanikante, Yehor Malakhov
+  - Made in collaboration with: João Capitão, Maria Rodrigues, Vidhi Rajanikante and Yehor Malakhov
 ---
 </details>
 
@@ -111,25 +111,49 @@ Check our website: https://aurora4youcp.wixsite.com/aurora
     
 </p>
 
-  This project was created by students partaking their final year of Data Science Bachelor's at NOVA Information Management School. In lieu of the Capstone Project Course, a fictional company, Aurora, was created. Aurora was created with the purpose of enhancing students’ academic journeys by leveraging AI for dynamic, personalized learning experiences that improve his/her engagement, motivation, and academic success. Aurora reaches to become the trusted, go-to study companion for students, offering a simple, engaging, and effective way to learn.
-
-Aurora was created to address the challenges students face with traditional educational tools, often lacking personalization, interactivity, and emotional support. The company's AI-powered chatbot serves as a personalized learning companion, offering tailored tools and resources to make studying and learning more effective and enjoyable.
+ As digital content continues to increase at an unprecedented rate, text mining has emerged as an essential tool
+for data-driven decision-making, allowing organisations to extract valuable insights from textual data in several
+sectors.
+The present report explores the use of text mining algorithms on two datasets based on restaurants and their
+reviews, focusing on sentiment analysis, topic modelling, clustering and multilabel classification. The analysis
+uses Natural Language Processing (NLP) and machine learning to detect patterns in consumer feedback, identify
+developing topics, and predict features such as cuisine types based on review content.
 
 <img width="619" height="466" alt="image" src="https://github.com/user-attachments/assets/9ea5d15a-5498-4b22-9704-1ca28bbfb2c9" />
+<img width="743" height="584" alt="image" src="https://github.com/user-attachments/assets/70b3a46d-e04b-4b00-aa6a-33095808147a" />
+
 
   
-  - Made in collaboration with: João Capitão, Maria Rodrigues, Vidhi Rajanikante, Yehor Malakhov
+  - Made in collaboration with: Miguel Matos, Patrícia Bezerra, Rita Silva and Vasco Capão
   - Made with data from:
+  -   - Read about our implementation: 📄 [Final report (PDF)](https://github.com/user-attachments/files/20747939/Report.pdf)
 ---
 </details>
 
 <details>
   <summary> Effects of market structure on markups of the slovenian construction sector </summary>
+   <br/ >
+  <p>
+<img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
+<img alt="Stata" src="https://img.shields.io/badge/-Stata-3776AB?style=flat-square&logoColor=white" />    
+</p>
+ As digital content continues to increase at an unprecedented rate, text mining has emerged as an essential tool
+for data-driven decision-making, allowing organisations to extract valuable insights from textual data in several
+sectors.
+The present report explores the use of text mining algorithms on two datasets based on restaurants and their
+reviews, focusing on sentiment analysis, topic modelling, clustering and multilabel classification. The analysis
+uses Natural Language Processing (NLP) and machine learning to detect patterns in consumer feedback, identify
+developing topics, and predict features such as cuisine types based on review content.
 
-  - Used NLP and multi-label models to classify cuisine types
-  - Performed sentiment analysis on user reviews
-  - Created visual dashboards of trends
+<img width="508" height="453" alt="image" src="https://github.com/user-attachments/assets/ff83fbe9-bdbc-46fb-a312-5b6ba35701c2" />
+<img width="666" height="485" alt="image" src="https://github.com/user-attachments/assets/e00b49dd-9116-47ef-b6f0-704ec3b10697" />
 
+
+  
+  - Made in collaboration with: Feliks Možina, Anže Čertanec and Uroš Dikić
+  - Made with data from:
+  -   - Read about our implementation: 📄 [Final report (PDF)](https://github.com/user-attachments/files/20747939/Report.pdf)
+---
 </details>
 
 
