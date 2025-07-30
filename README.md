@@ -36,10 +36,20 @@ This is my portfolio
 ###  📌 My past projects
 
 <details>
-  <summary> Application of Convolutional Neural Networks (CNNs) to Detect Breast Cancer </summary>
+  <summary> Application of convolutional neural networks (CNNs) to detect breast cancer type </summary>
 
-  - 📄 [Read Report (PDF)](https://github.com/user-attachments/files/20747939/Report.pdf)
-  - ![Preview](https://github.com/user-attachments/assets/60f94283-a062-45cd-b3fb-02ecdab8078d)
+  In honor of the breast cancer awareness month, me and my coleagues trained a CNN for multiclass classification of benign and malign tumors by using microscopic images  of breast tumor tissue.  Our final model achieved an F1 score (![harmonic mean of precision and recall](https://en.wikipedia.org/wiki/F-score)) of 0.83 on unseen data. Check below the model training process and my implementation of a novel medical image normalization (![Macenko et al. 2009](https://www.cs.unc.edu/~mn/sites/default/files/macenko2009.pdf)).
+  
+<img width="1170" height="576" alt="image" src="https://github.com/user-attachments/assets/95689216-890d-4199-8cea-3b9e585c08e6" />
+fig.1 legend
+
+<img width="1036" height="362" alt="image" src="https://github.com/user-attachments/assets/fc128582-2514-47ec-b062-543adc4407a2" />
+
+  
+  - Skills developed:
+  - made by
+  - Read more: 📄 [Read Report (PDF)](https://github.com/user-attachments/files/20747939/Report.pdf)
+  - references
 
 </details>
 
@@ -55,6 +65,15 @@ This is my portfolio
 
 <details>
   <summary> Multi-label Classification and Sentiment Analysis of Restaurants and Reviews in Hyderabad, India </summary>
+
+  - Used NLP and multi-label models to classify cuisine types
+  - Performed sentiment analysis on user reviews
+  - Created visual dashboards of trends
+
+</details>
+
+<details>
+  <summary> Effects of market structure on markups of the slovenian construction sector </summary>
 
   - Used NLP and multi-label models to classify cuisine types
   - Performed sentiment analysis on user reviews
