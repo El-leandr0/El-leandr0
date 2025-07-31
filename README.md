@@ -151,7 +151,7 @@ developing topics, and predict features such as cuisine types based on review co
   
   - Made in collaboration with: Feliks Možina, Anže Čertanec and Uroš Dikić
   - Made with data from:
-  -   - Read about our implementation: 📄 [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/slovene_markups_report)
+  -   - Read about our implementation: 📄 [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/slovene_markups_report.pdf)
 ---
 </details>
 
