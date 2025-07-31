@@ -123,7 +123,6 @@ developing topics, and predict features such as cuisine types based on review co
 <img width="743" height="584" alt="image" src="https://github.com/user-attachments/assets/70b3a46d-e04b-4b00-aa6a-33095808147a" />
 
 
-  
   - Made in collaboration with: Miguel Matos, Patrícia Bezerra, Rita Silva and Vasco Capão
   - Made with data from:
   -   - Read about our implementation: 📄 [Final report (PDF)](https://github.com/user-attachments/files/20747939/Report.pdf)
