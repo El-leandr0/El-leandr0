@@ -65,7 +65,7 @@ Welcome to my portfolio
   
   - Made in collaboration with: João Capitão, Maria Rodrigues, Vidhi Rajanikante, Yehor Malakhov
   - Made with data from:
-  - Read about our implementation: 📄 [Final report (PDF)](https://github.com/user-attachments/files/20747939/Report.pdf)
+  - Read about our implementation: 📄 [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/tumor_cnn_report.pdf)
   - References:
 ---
 </details>
@@ -125,7 +125,7 @@ developing topics, and predict features such as cuisine types based on review co
 
   - Made in collaboration with: Miguel Matos, Patrícia Bezerra, Rita Silva and Vasco Capão
   - Made with data from:
-  -   - Read about our implementation: 📄 [Final report (PDF)](https://github.com/user-attachments/files/20747939/Report.pdf)
+  -   - Read about our implementation: 📄 [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/textmining_report.pdf)
 ---
 </details>
 
