@@ -2,7 +2,7 @@
 
 <h1> Welcome 👋 </h1>
 
-Welcome to my profile! Check below my skills, projects and passions!
+Welcome to my profile!  <br/> Check below my skills, projects and passions!
 
 
 
@@ -14,7 +14,7 @@ Welcome to my profile! Check below my skills, projects and passions!
 
 
 ---
-### 🔧 My tools and programing languages
+<h3> My tools and programing languages: <h3/>
 
 
 <img align="left" title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -39,11 +39,12 @@ Welcome to my profile! Check below my skills, projects and passions!
 
 
 
-###  📌 My past projects
 
+
+### My best projects: 
 
 <details open>
-  <summary> Application of convolutional neural networks (CNNs) to detect breast cancer type </summary>
+  <summary> <h3> 🦠 Application of convolutional neural networks (CNNs) to detect breast cancer type </h3> </summary>
   <br/ >
   <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
@@ -151,6 +152,7 @@ developing topics, and predict features such as cuisine types based on review co
   - Made with data from:
   - Read about our implementation: 📄 [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/slovene_markups_report.pdf)
 ---
+</details>
 </details>
 
 
