@@ -1,8 +1,8 @@
 ![Image](./github-header-banner.png)
 
-<h1> Welcome 👋 </h1>
 
-Welcome to my profile!  <br/> Check below my skills, projects and passions!
+
+Welcome to my profile.  <br/> Check below my skills, projects and passions!
 
 
 
@@ -14,7 +14,7 @@ Welcome to my profile!  <br/> Check below my skills, projects and passions!
 
 
 ---
-<h3> My tools and programing languages: <h3/>
+<h3> ⚙️ My tools and programing languages: <h3/>
 
 
 <img align="left" title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -41,10 +41,10 @@ Welcome to my profile!  <br/> Check below my skills, projects and passions!
 
 
 
-### My best projects: 
+### 📌 My past projects: 
 
 <details open>
-  <summary> <h3> 🦠 Application of convolutional neural networks (CNNs) to detect breast cancer type </h3> </summary>
+  <summary> <h4> 🦠 Application of convolutional neural networks (CNNs) to detect breast cancer type </h4> </summary>
   <br/ >
   <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
