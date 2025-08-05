@@ -1,4 +1,4 @@
-
+![Header](./github-header-banner.png)
 # Nuno Leandro
 **` Recent graduate in data science `**
 
