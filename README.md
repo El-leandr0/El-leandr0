@@ -43,7 +43,7 @@ Check below my past projects
 ###  📌 My past projects
 
 
-<details>
+<details open>
   <summary> Application of convolutional neural networks (CNNs) to detect breast cancer type </summary>
   <br/ >
   <p>
