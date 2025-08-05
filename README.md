@@ -165,13 +165,6 @@ developing topics, and predict features such as cuisine types based on review co
 
 
 
-###  📎 Extra-curricular activities
-
-
-
-
-
-
 
 
 
