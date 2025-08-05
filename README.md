@@ -1,6 +1,4 @@
 ![Header](./github-header-banner.png)
-# Nuno Leandro
-**` Recent graduate in data science `**
 
 
 Welcome to my portfolio
@@ -161,6 +159,10 @@ developing topics, and predict features such as cuisine types based on review co
 
 
 ###  📎 Extra-curricular activities
+
+# Nuno Leandro
+**` Recent graduate in data science `**
+
 
 
 
