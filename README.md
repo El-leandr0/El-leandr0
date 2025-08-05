@@ -160,7 +160,6 @@ developing topics, and predict features such as cuisine types based on review co
 
 - Preparing for Github foundations certification 
 - Preparing for Microsoft Azure Fundamentals (AZ-900) certification
-- 
 
 
 
