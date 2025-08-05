@@ -70,8 +70,8 @@ Welcome to my profile.  <br/> Check below my skills, projects and passions!
 </details>
 
 
-<details>
-  <summary> AI Study Companion Using OpenAI API </summary>
+<details open>
+  <summary> <strong>  AI Study Companion Using OpenAI API </strong> </summary>
   <br/ >
   <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
@@ -97,7 +97,7 @@ Check our website: https://aurora4youcp.wixsite.com/aurora
 </details>
 
 <details>
-  <summary> Multi-label Classification and Sentiment Analysis of Restaurants and Reviews in Hyderabad, India </summary>
+  <summary> <strong> Multi-label Classification and Sentiment Analysis of Restaurants and Reviews in Hyderabad, India </strong> </summary>
   <br/ >
   <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
@@ -129,7 +129,7 @@ developing topics, and predict features such as cuisine types based on review co
 </details>
 
 <details>
-  <summary> Effects of market structure on markups of the slovenian construction sector </summary>
+  <summary> <strong> Effects of market structure on markups of the slovenian construction sector </strong> </summary>
    <br/ >
   <p>
 <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
@@ -153,18 +153,19 @@ developing topics, and predict features such as cuisine types based on review co
   - Read about our implementation: 📄 [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/slovene_markups_report.pdf)
 ---
 </details>
-</details>
+
 
 
 ###  📝 I'm currently learning...
+
+- Preparing for Github foundations certification 
+- Preparing for Microsoft Azure Fundamentals (AZ-900) certification
+- 
 
 
 
 
 ###  📎 Extra-curricular activities
-
-# Nuno Leandro
-**` Recent graduate in data science `**
 
 
 
