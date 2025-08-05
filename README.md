@@ -1,9 +1,8 @@
 ![Image](./github-header-banner.png)
 
-<h1> Welcome</h1>
+<h1> Welcome 👋 </h1>
 
-Check below my past projects
-
+Welcome to my profile! Check below my skills, projects and passions!
 
 
 
