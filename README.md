@@ -1,7 +1,9 @@
-![Header](./github-header-banner.png)
+![Image](./github-header-banner.png)
 
+<h1> Welcome</h1>
 
-Welcome to my portfolio
+Check below my past projects
+
 
 
 
