@@ -1,15 +1,15 @@
 ![Image](./github-header-banner(6).png)
 
+<p><a href="https://www.linkedin.com/in/nuno-tavares-leandro" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:nuno.miguel.leandro@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+</p>
 
 Welcome to my profile.  <br/> Check below my skills, projects and passions!
 
 
 
-<p><a href="https://www.linkedin.com/in/nuno-tavares-leandro" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:nuno.miguel.leandro@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-</p>
 
 
 
