@@ -16,7 +16,7 @@ Check below my skills, projects and passions!
 
 
 ---
-<h3> ⚙️ My tools and programing languages: </h3>
+<h2> ⚙️ My tools and programing languages: </h2>
 
 
 <img align="left" title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -43,10 +43,10 @@ Check below my skills, projects and passions!
 
 
 
-<h3> 📌 My past projects:  </h3>
+<h2> 📌 My past projects:  </h2>
  
 <details open>
-  <summary> <strong> Application of convolutional neural networks (CNNs) to detect breast cancer type </strong> </summary>
+  <summary> <h3>Application of convolutional neural networks (CNNs) to detect breast cancer type </h3>  </summary>
   <br/ >
   <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
