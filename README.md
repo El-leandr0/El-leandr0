@@ -153,12 +153,24 @@ developing topics, and predict features such as cuisine types based on review co
 ---
 </details>
 
-
-
 ###  🌱 I'm currently learning...
 
 - Preparing for Github foundations certification 
 - Preparing for Microsoft Azure Fundamentals (AZ-900) certification
+
+
+###   ❤️ My hobbies are...
+
+- 🎹 Piano. I'm learning the piece Op. 48, Nº 1, F. Chopin
+
+- 🏃‍♂️ Sports. I like runing, hiking and calistenics
+
+- 📸 Photography. 
+
+- 🎬 Cinema
+
+- 🌐 Traveling
+  
 
 
 ###  👥 Connect with me on...
