@@ -68,7 +68,7 @@ Check below my skills, projects and passions!
 
 
 <details open>
-  <summary> <strong>  AI Study Companion Using OpenAI API </strong> </summary>
+  <summary> <h3>  AI Study Companion Using OpenAI API </h3>  </summary>
   <br/ >
   <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
@@ -94,7 +94,7 @@ Check our website: https://aurora4youcp.wixsite.com/aurora
 </details>
 
 <details>
-  <summary> <strong> Multi-label Classification and Sentiment Analysis of Restaurants and Reviews in Hyderabad, India </strong> </summary>
+  <summary> <h3> Multi-label Classification and Sentiment Analysis of Restaurants and Reviews in Hyderabad, India </h3> </summary>
   <br/ >
   <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
@@ -126,7 +126,7 @@ developing topics, and predict features such as cuisine types based on review co
 </details>
 
 <details>
-  <summary> <strong> Effects of market structure on markups of the slovenian construction sector </strong> </summary>
+  <summary> <h3> Effects of market structure on markups of the slovenian construction sector </h3> </summary>
    <br/ >
   <p>
 <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
