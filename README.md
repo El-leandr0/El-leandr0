@@ -9,7 +9,7 @@ As a finalist of my bachelor in Data Science, I look for a space where I can put
 Check below my skills, projects and passions!
 
 ---
-</br>
+
 
 <h2> ⚙️ My tools and programing languages: </h2>
 
