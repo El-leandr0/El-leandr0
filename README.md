@@ -40,7 +40,7 @@ Welcome to my profile.  <br/> Check below my skills, projects and passions!
 
 
 
-<h2> 📌 My past projects:  </h2>
+<h3> 📌 My past projects:  </h3>
  
 <details open>
   <summary> <strong> Application of convolutional neural networks (CNNs) to detect breast cancer type </strong> </summary>
