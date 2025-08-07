@@ -8,15 +8,10 @@ As a finalist of my bachelor in Data Science, I look for a space where I can put
 
 Check below my skills, projects and passions!
 
-
-
-
-
-
-
-
 ---
-<h3> ⚙️ My tools and programing languages: </h3>
+</br>
+
+<h2> ⚙️ My tools and programing languages: </h2>
 
 
 <img align="left" title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
