@@ -153,13 +153,13 @@ developing topics, and predict features such as cuisine types based on review co
 ---
 </details>
 
-###  🌱 I'm currently learning...
+<h2> 🌱 I'm currently learning... </h2>
 
 - Preparing for Github foundations certification 
 - Preparing for Microsoft Azure Fundamentals (AZ-900) certification
 
-
-###   ❤️ My hobbies are...
+  
+<h2> ❤️ My hobbies are... </h2>
 
 - 🎹 Piano. I'm learning the piece Op. 48, Nº 1, F. Chopin
 
@@ -171,14 +171,13 @@ developing topics, and predict features such as cuisine types based on review co
 
 - 🌐 Traveling
   
-
-
-###  👥 Connect with me on...
+<h2> 📫 Reach me on... </h2>
 <p><a href="https://www.linkedin.com/in/nuno-tavares-leandro" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:nuno.miguel.leandro@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/El-leandr0" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 
 
