@@ -94,7 +94,7 @@ Check our website: https://aurora4youcp.wixsite.com/aurora
 </details>
 
 <details>
-  <summary> <h3> Multi-label Classification and Sentiment Analysis of Restaurants and Reviews in Hyderabad, India </h3> </summary>
+  <summary> <h3> Multi-label classification and sentiment analysis of restaurant reviews </h3> </summary>
   <br/ >
   <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
