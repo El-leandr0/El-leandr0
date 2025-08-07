@@ -123,8 +123,8 @@ developing topics, and predict features such as cuisine types based on review co
 
 
   - Made in collaboration with: Miguel Matos, Patrícia Bezerra, Rita Silva and Vasco Capão
-  - Made with data from:
-  -   - Read about our implementation: 📄 [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/textmining_report.pdf)
+  - Made with data from: Kaggle
+  - Read about our implementation: 📄 [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/textmining_report.pdf)
 ---
 </details>
 
