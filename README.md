@@ -2,9 +2,10 @@
 
 
 
-Welcome to my profile.  <br/> Check below my skills, projects and passions!
+Welcome to my profile.  
+<br/>  Check below my skills, projects and passions!
 
-
+As a finalist of my bachelor in Data Science, I look for a space where I can put my knowledge to good use and at the same time  learn something new everyday. I am an avid learner, resourcefullpassionate about AI, Economics and everything in between.
 
 
 
