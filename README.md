@@ -68,6 +68,7 @@ Check below my skills, projects and passions!
 
 <p align="center"> <strong>Figure 2: </strong> Plots of the accuracy and loss on training and validation sets on the model training process. </p>
 <br/ >
+<br/ >
 
 - **Made in collaboration with:** João Capitão, Maria Rodrigues, Vidhi Rajanikante, Yehor Malakhov
 - **Made with data from:** Spanhol, F., Oliveira, L. S., Petitjean, C., Heutte, L., A Dataset for Breast Cancer Histopathological Image Classification, IEEE Transactions on Biomedical Engineering (TBME), 63(7):1455-1462, 2016. https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
@@ -137,6 +138,8 @@ developing topics, and predict features such as cuisine types based on review co
 <p align="center">
  Figure 2: Unigrams and bigrams by review rating
 </p>
+<br/ >
+<br/ >
 
   - **Made in collaboration with:** Miguel Matos, Patrícia Bezerra, Rita Silva and Vasco Capão
   - **Made with data from:** Chirag_ISB (username), “Zomato Restaurants Hyderabad,” Kaggle, 08 06 2020. [Online]. Available:
@@ -176,7 +179,8 @@ analysis.
 <p align="center">
  Figure 2: Markups and firm size of the construction of public utilities sub-sector
 </p>
-
+<br/ >
+<br/ >
   
   - **Made in collaboration with:** Feliks Možina, Anže Čertanec and Uroš Dikić
   - **Made with data from:** Databases of the annual reports for companies, cooperatives and sole proprietors, for the period from 2006 to 2023, which were forwarded by the Agency of the Republic of Slovenia for Public Legal Records and Related Services (AJPES).
