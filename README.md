@@ -109,15 +109,12 @@ Check our website: https://aurora4youcp.wixsite.com/aurora
 <img alt="Scikit Learn" src="https://img.shields.io/badge/-Scikit Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-7A76FF?style=flat-square&logo=plotly&logoColor=white" />
-
-    
 </p>
 
- As digital content continues to increase at an unprecedented rate, text mining has emerged as an essential tool
+As digital content continues to increase at an unprecedented rate, text mining has emerged as an essential tool
 for data-driven decision-making, allowing organisations to extract valuable insights from textual data in several
-sectors.
-The present report explores the use of text mining algorithms on two datasets based on restaurants and their
-reviews, focusing on sentiment analysis, topic modelling, clustering and multilabel classification. The analysis
+sectors. This project explores the use of text mining algorithms on two datasets based on restaurants and their
+reviews from Hyderabadi, India, focusing on sentiment analysis, topic modelling, clustering and multilabel classification. The analysis
 uses Natural Language Processing (NLP) and machine learning to detect patterns in consumer feedback, identify
 developing topics, and predict features such as cuisine types based on review content.
 
@@ -125,17 +122,18 @@ developing topics, and predict features such as cuisine types based on review co
  <img width="398" height="300" alt="image" src="https://github.com/user-attachments/assets/9ea5d15a-5498-4b22-9704-1ca28bbfb2c9" />
 </p>
 <p align="center">
- Figure 1: Before and after image normalization 
+ Figure 1: Word cloud
 </p>
 <p align="center">
  <img width="543" height="350" alt="image" src="https://github.com/user-attachments/assets/ad2a1e68-e703-4229-ab10-40ac0ffb72d7" />
 </p>
 <p align="center">
- Figure 1: Before and after image normalization 
+ Figure 2: Unigrams and bigrams by review rating
 </p>
 
   - Made in collaboration with: Miguel Matos, Patrícia Bezerra, Rita Silva and Vasco Capão
-  - Made with data from: Kaggle
+  - Made with data from: Chirag_ISB (username), “Zomato Restaurants Hyderabad,” Kaggle, 08 06 2020. [Online]. Available:
+https://www.kaggle.com/datasets/batjoker/zomato-restaurants-hyderabad/data. [Accessed 25 09 2024].
   - Read about our implementation: 📄 [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/textmining_report.pdf)
 ---
 </details>
