@@ -67,7 +67,7 @@ Check below my skills, projects and passions!
 <p align="center"> Figure 2: Plots of the accuracy and loss on training and validation sets on the model training process </p>
   
   - Made in collaboration with: João Capitão, Maria Rodrigues, Vidhi Rajanikante, Yehor Malakhov
-  - Made with data from:
+  - Made with data from: Spanhol, F., Oliveira, L. S., Petitjean, C., Heutte, L., A Dataset for Breast Cancer Histopathological Image Classification, IEEE Transactions on Biomedical Engineering (TBME), 63(7):1455-1462, 2016. https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
   - Read about our implementation: 📄 [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/tumor_cnn_report.pdf)
 ---
 </details>
@@ -93,8 +93,8 @@ Check below my skills, projects and passions!
   This project was created by students partaking their final year of Data Science Bachelor's at NOVA Information Management School. In lieu of the Capstone Project Course, a fictional company, Aurora, was created. Aurora was created with the purpose of enhancing students’ academic journeys by leveraging AI for dynamic, personalized learning experiences that improve his/her engagement, motivation, and academic success. Aurora reaches to become the trusted, go-to study companion for students, offering a simple, engaging, and effective way to learn.
 
 Aurora was created to address the challenges students face with traditional educational tools, often lacking personalization, interactivity, and emotional support. The company's AI-powered chatbot serves as a personalized learning companion, offering tailored tools and resources to make studying and learning more effective and enjoyable.
-Check our website: https://aurora4youcp.wixsite.com/aurora
-  
+
+  - Check our website: https://aurora4youcp.wixsite.com/aurora
   - Made in collaboration with: João Capitão, Maria Rodrigues, Vidhi Rajanikante and Yehor Malakhov
 ---
 </details>
@@ -174,7 +174,7 @@ analysis.
   
   - Made in collaboration with: Feliks Možina, Anže Čertanec and Uroš Dikić
   - Made with data from:
-  - Read about our implementation: 📄 [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/slovene_markups_report.pdf)
+  - Read the paper: 📄 [Paper (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/slovene_markups_report.pdf)
 ---
 </details>
 
