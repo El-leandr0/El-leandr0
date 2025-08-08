@@ -217,6 +217,7 @@ analysis.
 
 <details>
   <summary> Explore </summary>
+  </br>
 I created this README profile with help and inspiration from: </br>
 - https://github.com/thmsgbrt </br>
 - https://github.com/abhisheknaiidu/awesome-github-profile-readme </br>
@@ -229,6 +230,15 @@ I created this README profile with help and inspiration from: </br>
 - https://github.com/bchiang7 </br>
 - https://github.com/vidyabhandary </br>
 - https://github.com/Raymo111 </br>
+- https://github.com/matyo91 </br>
+- https://github.com/MasonSlover </br>
+- https://github.com/MasonSlover/ProcessingPortfolio </br>
+- https://zzetao.github.io/awesome-github-profile/ </br>
+- https://github.com/antonkomarev/github-profile-views-counter </br>
+- https://github.com/badges/shields </br>
+- https://github.com/sciencepal </br>
+- https://github.com/devicons/devicon </br>
+ 
 </details>
 
 <h2> 📫 Reach me on: </h2>
