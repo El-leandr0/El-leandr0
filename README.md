@@ -94,8 +94,8 @@ Check below my skills, projects and passions!
 
 Aurora was created to address the challenges students face with traditional educational tools, often lacking personalization, interactivity, and emotional support. The company's AI-powered chatbot serves as a personalized learning companion, offering tailored tools and resources to make studying and learning more effective and enjoyable.
 
-  - **Check our website:** https://aurora4youcp.wixsite.com/aurora
   - **Made in collaboration with:** João Capitão, Maria Rodrigues, Vidhi Rajanikante and Yehor Malakhov
+  - **Check our website:** https://aurora4youcp.wixsite.com/aurora
 </br>
 <p align="center"> ⬇️ Check more projects ⬇️ </p>
 
