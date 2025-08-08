@@ -219,7 +219,16 @@ analysis.
   <summary> Explore </summary>
 I created this README profile with help and inspiration from: </br>
 - https://github.com/thmsgbrt </br>
-- https://leviarista.github.io/github-profile-header-generator </br>
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme </br>
+- https://github.com/adamalston </br>
+- https://github.com/swyxio </br>
+- https://github.com/DenverCoder1/Simple-View-Counter </br>
+- https://github.com/DenverCoder1 </br>
+- https://github.com/Ileriayo </br>
+- https://github.com/Spiderpig86 </br>
+- https://github.com/bchiang7 </br>
+- https://github.com/vidyabhandary </br>
+- https://github.com/Raymo111 </br>
 </details>
 
 <h2> 📫 Reach me on: </h2>
