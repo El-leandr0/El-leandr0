@@ -118,6 +118,7 @@ reviews from Hyderabadi, India, focusing on sentiment analysis, topic modelling,
 uses Natural Language Processing (NLP) and machine learning to detect patterns in consumer feedback, identify
 developing topics, and predict features such as cuisine types based on review content.
 
+
 <p align="center">
  <img width="398" height="300" alt="image" src="https://github.com/user-attachments/assets/9ea5d15a-5498-4b22-9704-1ca28bbfb2c9" />
 </p>
@@ -145,25 +146,29 @@ https://www.kaggle.com/datasets/batjoker/zomato-restaurants-hyderabad/data. [Acc
 <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
 <img alt="Stata" src="https://img.shields.io/badge/-Stata-3776AB?style=flat-square&logoColor=white" />    
 </p>
- As digital content continues to increase at an unprecedented rate, text mining has emerged as an essential tool
-for data-driven decision-making, allowing organisations to extract valuable insights from textual data in several
-sectors.
-The present report explores the use of text mining algorithms on two datasets based on restaurants and their
-reviews, focusing on sentiment analysis, topic modelling, clustering and multilabel classification. The analysis
-uses Natural Language Processing (NLP) and machine learning to detect patterns in consumer feedback, identify
-developing topics, and predict features such as cuisine types based on review content.
-
+ 
+The main aim of this project was to investigate how market structure affects firm-level markups across
+different sub-branches of the Slovenian construction sector. Markups, defined as the ratio between
+firm revenues and variable costs, are a key indicator of pricing power and market competitiveness. To
+estimate them, we rely on a transparent, accounting-based method derived from Kalecki and
+Domowitz et al. (1986), using detailed financial data from 2006 to 2023. We first examine and present a description of our data followed by a review
+of relevant literature on the relationship between market structure and markups, and broader
+economic determinants of pricing power. We then present descriptive statistics and sector-specific
+trends and formulate our hypotheses. Next we present our methodology and findings
+along with their interpretation and finally we conclude the paper by acknowledging the limitations of our
+analysis.
+ 
 <p align="center">
 <img width="500" height="446" alt="image" src="https://github.com/user-attachments/assets/ff83fbe9-bdbc-46fb-a312-5b6ba35701c2" />
 </p>
 <p align="center">
- Figure 1: Before and after image normalization 
+ Figure 1: Markups by construction NACE3 sector 
 </p>
 <p align="center">
 <img width="500" height="446" alt="image" src="https://github.com/user-attachments/assets/e00b49dd-9116-47ef-b6f0-704ec3b10697" />
 </p>
 <p align="center">
- Figure 1: Before and after image normalization 
+ Figure 2: Markups and firm size of the construction of public utilities sub-sector
 </p>
 
   
