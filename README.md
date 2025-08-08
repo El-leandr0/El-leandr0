@@ -38,7 +38,7 @@ Check below my skills, projects and passions!
 <h2> 📌 My past projects:  </h2>
  
 <details open>
-  <summary> <h3>Application of convolutional neural networks (CNNs) to detect breast cancer type </h3>  </summary>
+  <summary> <h3>Application of convolutional neural networks (CNNs) to detect breast cancer </h3>  </summary>
   <br/ >
   <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
@@ -180,7 +180,7 @@ analysis.
 
 ---
 
-<h2> 🌱 I'm currently learning... </h2>
+<h2> 🌱 I'm currently learning: </h2>
 
 - Preparing for Github foundations certification 
 - Preparing for Microsoft Azure Fundamentals (AZ-900) certification
@@ -188,6 +188,9 @@ analysis.
   
 <h2> ❤️ My hobbies are... </h2>
 
+<details>
+  <summary> Explore </summary>
+ 
 - 🎹 Piano. I'm learning the piece Op. 48, Nº 1, F. Chopin
 
 - 🏃‍♂️ Sports. I like runing, hiking and calistenics
@@ -198,14 +201,17 @@ analysis.
 
 - 🌐 Traveling
 
-<h2> 📄 References for my profile </h2>
+</details>
+
+<h2> 📄 References...</h2>
 
 <details>
   <summary> Explore </summary>
  - https://github.com/thmsgbrt
+ - 
 </details>
 
-<h2> 📫 Reach me on... </h2>
+<h2> 📫 Reach me on: </h2>
 <p><a href="https://www.linkedin.com/in/nuno-tavares-leandro" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:nuno.miguel.leandro@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/El-leandr0" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
