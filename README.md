@@ -68,7 +68,7 @@ Check below my skills, projects and passions!
 
 <p align="center"> <strong>Figure 2: </strong> Plots of the accuracy and loss on training and validation sets on the model training process. </p>
 <br/ >
-<br/ >
+
 
 - **Made in collaboration with:** João Capitão, Maria Rodrigues, Vidhi Rajanikante, Yehor Malakhov
 - **Made with data from:** Spanhol, F., Oliveira, L. S., Petitjean, C., Heutte, L., A Dataset for Breast Cancer Histopathological Image Classification, IEEE Transactions on Biomedical Engineering (TBME), 63(7):1455-1462, 2016. https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
@@ -130,20 +130,20 @@ developing topics, and predict features such as cuisine types based on review co
  <img width="398" height="300" alt="image" src="https://github.com/user-attachments/assets/9ea5d15a-5498-4b22-9704-1ca28bbfb2c9" />
 </p>
 <p align="center">
- Figure 1: Word cloud
+ Figure 1: Word cloud.
 </p>
 <p align="center">
  <img width="543" height="350" alt="image" src="https://github.com/user-attachments/assets/ad2a1e68-e703-4229-ab10-40ac0ffb72d7" />
 </p>
 <p align="center">
- Figure 2: Unigrams and bigrams by review rating
+ Figure 2: Unigrams and bigrams by review rating.
 </p>
 <br/ >
-<br/ >
+
 
   - **Made in collaboration with:** Miguel Matos, Patrícia Bezerra, Rita Silva and Vasco Capão
   - **Made with data from:** Chirag_ISB (username), “Zomato Restaurants Hyderabad,” Kaggle, 08 06 2020. [Online]. Available:
-https://www.kaggle.com/datasets/batjoker/zomato-restaurants-hyderabad/data. [Accessed 25 09 2024].
+https://www.kaggle.com/datasets/batjoker/zomato-restaurants-hyderabad/data.
   - **Read about our implementation:** 📄 [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/textmining_report.pdf)
 ---
 </details>
@@ -171,13 +171,13 @@ analysis.
 <img width="500" height="446" alt="image" src="https://github.com/user-attachments/assets/ff83fbe9-bdbc-46fb-a312-5b6ba35701c2" />
 </p>
 <p align="center">
- Figure 1: Markups by construction NACE3 sector 
+ Figure 1: Markups by construction NACE3 sector.
 </p>
 <p align="center">
 <img width="500" height="446" alt="image" src="https://github.com/user-attachments/assets/e00b49dd-9116-47ef-b6f0-704ec3b10697" />
 </p>
 <p align="center">
- Figure 2: Markups and firm size of the construction of public utilities sub-sector
+ Figure 2: Markups and firm size of the construction of public utilities sub-sector.
 </p>
 <br/ >
 <br/ >
