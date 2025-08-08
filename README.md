@@ -8,8 +8,8 @@ Check below my skills, projects and passions!
 
 ---
 
-
-<h2> ⚙️ My tools: </h2>
+⚙️ 
+<h2> 🧰 My tools: </h2>
 
 
 <img align="left" title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
