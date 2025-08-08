@@ -173,7 +173,7 @@ analysis.
 
   
   - **Made in collaboration with:** Feliks Možina, Anže Čertanec and Uroš Dikić
-  - **Made with data from:**
+  - **Made with data from:** Databases of the annual reports for companies, cooperatives and sole proprietors, for the period from 2006 to 2023, which were forwarded by the Agency of the Republic of Slovenia for Public Legal Records and Related Services (AJPES).
   - **Read the paper:** 📄 [Paper (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/slovene_markups_report.pdf)
 ---
 </details>
