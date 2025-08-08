@@ -212,7 +212,7 @@ analysis.
 
 <details>
   <summary> Explore </summary>
-My README profile was created with help and inspiration from: </br>
+I created this README profile with help and inspiration from: </br>
 - https://github.com/thmsgbrt </br>
 - https://leviarista.github.io/github-profile-header-generator </br>
 </details>
