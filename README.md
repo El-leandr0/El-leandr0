@@ -129,15 +129,11 @@ developing topics, and predict features such as cuisine types based on review co
 <p align="center">
  <img width="398" height="300" alt="image" src="https://github.com/user-attachments/assets/9ea5d15a-5498-4b22-9704-1ca28bbfb2c9" />
 </p>
-<p align="center">
- Figure 1: Word cloud.
-</p>
+<p align="center"> <strong> Figure 1:</strong> Word cloud. </p>
 <p align="center">
  <img width="543" height="350" alt="image" src="https://github.com/user-attachments/assets/ad2a1e68-e703-4229-ab10-40ac0ffb72d7" />
 </p>
-<p align="center">
- Figure 2: Unigrams and bigrams by review rating.
-</p>
+<p align="center"> <strong> Figure 2:</strong> Unigrams and bigrams by review rating. </p>
 <br/ >
 
 
@@ -170,15 +166,11 @@ analysis.
 <p align="center">
 <img width="500" height="446" alt="image" src="https://github.com/user-attachments/assets/ff83fbe9-bdbc-46fb-a312-5b6ba35701c2" />
 </p>
-<p align="center">
- Figure 1: Markups by construction NACE3 sector.
-</p>
+<p align="center"> <strong> Figure 1: </strong> Markups by construction NACE3 sector.</p>
 <p align="center">
 <img width="500" height="446" alt="image" src="https://github.com/user-attachments/assets/e00b49dd-9116-47ef-b6f0-704ec3b10697" />
 </p>
-<p align="center">
- Figure 2: Markups and firm size of the construction of public utilities sub-sector.
-</p>
+<p align="center"> <strong> Figure 2: </strong> Markups and firm size of the construction of public utilities sub-sector.</p>
 <br/ >
 <br/ >
   
