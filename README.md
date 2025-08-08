@@ -181,6 +181,8 @@ analysis.
 ---
 </details>
 
+---
+
 <h2> 🌱 I'm currently learning... </h2>
 
 - Preparing for Github foundations certification 
