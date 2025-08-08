@@ -1,4 +1,6 @@
 ![Image](./github-header-banner(5).png)
+![GIF](./GIF.gif)
+
 
 Welcome to my profile.
 
