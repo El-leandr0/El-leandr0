@@ -59,14 +59,14 @@ Check below my skills, projects and passions!
  <img align="middle" width="715" height="250" alt="image" src="https://github.com/user-attachments/assets/fc128582-2514-47ec-b062-543adc4407a2">
 </p>
 
-<p align="center"> <strong>Figure 1: Before and after image normalization </strong> </p>
+<p align="center"> <strong>Figure 1:</strong> Before and after image normalization </p>
   
 
 <p align="center">
  <img width="631" height="300" alt="image" src="https://github.com/user-attachments/assets/95689216-890d-4199-8cea-3b9e585c08e6" />
 </p>
 
-<p align="center"> <strong>Figure 2: Plots of the accuracy and loss on training and validation sets on the model training process </strong></p>
+<p align="center"> <strong>Figure 2: </strong> Plots of the accuracy and loss on training and validation sets on the model training process </p>
   
   - **Made in collaboration with:** João Capitão, Maria Rodrigues, Vidhi Rajanikante, Yehor Malakhov
   - **Made with data from:** Spanhol, F., Oliveira, L. S., Petitjean, C., Heutte, L., A Dataset for Breast Cancer Histopathological Image Classification, IEEE Transactions on Biomedical Engineering (TBME), 63(7):1455-1462, 2016. https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
