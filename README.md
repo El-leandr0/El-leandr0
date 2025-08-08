@@ -7,8 +7,7 @@ I'm a finalist of the bachelor in Data Science. I want to put my knowledge to go
 Check below my skills, projects and passions!
 
 ---
-
-⚙️ 
+ 
 <h2> 🧰 My tools: </h2>
 
 
