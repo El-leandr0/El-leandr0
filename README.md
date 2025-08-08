@@ -197,12 +197,20 @@ analysis.
 - 🎬 Cinema
 
 - 🌐 Traveling
-  
+
+<h2> 📄 References for my profile </h2>
+
+<details>
+  <summary> Explore </summary>
+ - https://github.com/thmsgbrt
+</details>
+
 <h2> 📫 Reach me on... </h2>
 <p><a href="https://www.linkedin.com/in/nuno-tavares-leandro" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:nuno.miguel.leandro@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/El-leandr0" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
+
 
 
 
