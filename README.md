@@ -1,10 +1,8 @@
 ![Image](./github-header-banner(5).png)
 
+Welcome to my profile.
 
-
-Welcome to my profile.  
-
-As a finalist of my bachelor in Data Science, I look for a space where I can put my knowledge to good use and at the same time  learn something new everyday. I am an avid learner, resourcefull and passionate about AI, Economics and everything in between.
+I'm a finalist of the bachelor in Data Science. I want to put my knowledge to good use and at the same time  learn something new everyday. I am an avid learner, resourcefull and passionate about AI, Economics and everything in between.
 
 Check below my skills, projects and passions!
 
