@@ -53,11 +53,17 @@ Check below my skills, projects and passions!
 
   In honor of the breast cancer awareness month, me and my coleagues trained a CNN for multiclass classification of benign and malign tumors by using microscopic images  of breast tissue.  Our final model achieved an F1 score (![harmonic mean of precision and recall](https://en.wikipedia.org/wiki/F-score)) of 0.83 on unseen data. Check below the model training process and the result of my implementation of a novel medical image normalization (![Macenko et al. 2009](https://www.cs.unc.edu/~mn/sites/default/files/macenko2009.pdf)).
 
-<center> <img align="middle" width="715" height="250" alt="image" src="https://github.com/user-attachments/assets/fc128582-2514-47ec-b062-543adc4407a2" /> </center>
+<p align="center">
+ <img align="middle" width="715" height="250" alt="image" src="https://github.com/user-attachments/assets/fc128582-2514-47ec-b062-543adc4407a2">
+</p>
 
 <p align="center"> Figure 1: Before and after image normalization </p>
   
-<center> <img width="631" height="300" alt="image" src="https://github.com/user-attachments/assets/95689216-890d-4199-8cea-3b9e585c08e6" /> </center>
+
+<p align="center">
+ <img width="631" height="300" alt="image" src="https://github.com/user-attachments/assets/95689216-890d-4199-8cea-3b9e585c08e6" />
+</p>
+
 <p align="center"> Figure 2: Plots of the accuracy and loss on training and validation sets on the model training process </p>
   
   - Made in collaboration with: João Capitão, Maria Rodrigues, Vidhi Rajanikante, Yehor Malakhov
@@ -115,9 +121,18 @@ reviews, focusing on sentiment analysis, topic modelling, clustering and multila
 uses Natural Language Processing (NLP) and machine learning to detect patterns in consumer feedback, identify
 developing topics, and predict features such as cuisine types based on review content.
 
-<img width="398" height="300" alt="image" src="https://github.com/user-attachments/assets/9ea5d15a-5498-4b22-9704-1ca28bbfb2c9" />
-<img width="543" height="350" alt="image" src="https://github.com/user-attachments/assets/ad2a1e68-e703-4229-ab10-40ac0ffb72d7" />
-
+<p align="center">
+ <img width="398" height="300" alt="image" src="https://github.com/user-attachments/assets/9ea5d15a-5498-4b22-9704-1ca28bbfb2c9" />
+</p>
+<p align="center">
+ Figure 1: Before and after image normalization 
+</p>
+<p align="center">
+ <img width="543" height="350" alt="image" src="https://github.com/user-attachments/assets/ad2a1e68-e703-4229-ab10-40ac0ffb72d7" />
+</p>
+<p align="center">
+ Figure 1: Before and after image normalization 
+</p>
 
   - Made in collaboration with: Miguel Matos, Patrícia Bezerra, Rita Silva and Vasco Capão
   - Made with data from: Kaggle
@@ -140,9 +155,18 @@ reviews, focusing on sentiment analysis, topic modelling, clustering and multila
 uses Natural Language Processing (NLP) and machine learning to detect patterns in consumer feedback, identify
 developing topics, and predict features such as cuisine types based on review content.
 
+<p align="center">
 <img width="500" height="446" alt="image" src="https://github.com/user-attachments/assets/ff83fbe9-bdbc-46fb-a312-5b6ba35701c2" />
+</p>
+<p align="center">
+ Figure 1: Before and after image normalization 
+</p>
+<p align="center">
 <img width="500" height="446" alt="image" src="https://github.com/user-attachments/assets/e00b49dd-9116-47ef-b6f0-704ec3b10697" />
-
+</p>
+<p align="center">
+ Figure 1: Before and after image normalization 
+</p>
 
   
   - Made in collaboration with: Feliks Možina, Anže Čertanec and Uroš Dikić
