@@ -70,14 +70,13 @@ Check below my skills, projects and passions!
 <br/ >
 
 
-- **Made in collaboration with:** João Capitão, Maria Rodrigues, Vidhi Rajanikante, Yehor Malakhov
-- **Made with data from:** Spanhol, F., Oliveira, L. S., Petitjean, C., Heutte, L., A Dataset for Breast Cancer Histopathological Image Classification, IEEE Transactions on Biomedical Engineering (TBME), 63(7):1455-1462, 2016. https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
-- **Read our paper:** 📄 [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/tumor_cnn_report.pdf)
+- **Made in collaboration with:** [João Capitão](https://www.linkedin.com/in/joao-capitao/), [Maria Rodrigues](https://www.linkedin.com/in/maria-rodrigues2223/), [Vidhi Rajanikante](https://www.linkedin.com/in/vidhi-rajanikante/), [Yehor Malakhov](https://www.linkedin.com/in/yehor-malakhov/).
+- **Made with data from:** [Spanhol, F., Oliveira, L. S., Petitjean, C., Heutte, L., A Dataset for Breast Cancer Histopathological Image Classification, IEEE Transactions on Biomedical Engineering (TBME), 63(7):1455-1462, 2016](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/).
+- **Read our paper:** [Final report (PDF)](https://github.com/El-leandr0/El-leandr0/blob/main/docs/tumor_cnn_report.pdf).
 ---
 </details>
 
-
-<details open>
+<details open>  
   <summary> <h3>  AI Study Companion Using OpenAI API </h3>  </summary>
   <br/ >
   <p>
@@ -87,20 +86,34 @@ Check below my skills, projects and passions!
 <img alt="Langchain" src="https://img.shields.io/badge/-Langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img alt="Scikit Learn" src="https://img.shields.io/badge/-Scikit Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white" />
-
-
-
-    
+<img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white" />   
 </p>
+<p>
+This was my final project for the Data Science Bachelor’s at NOVA Information Management School. Together with my team, we created Aurora, a fictional company whose goal was to create a chatbot that could enhance students academic journeys by leveraging AI to deliver dynamic, personalized learning experiences that boost engagement, motivation, and academic success. 
 
-  This project was created by students partaking their final year of Data Science Bachelor's at NOVA Information Management School. In lieu of the Capstone Project Course, a fictional company, Aurora, was created. Aurora was created with the purpose of enhancing students’ academic journeys by leveraging AI for dynamic, personalized learning experiences that improve his/her engagement, motivation, and academic success. Aurora reaches to become the trusted, go-to study companion for students, offering a simple, engaging, and effective way to learn.
+From a technical perspective, the chatbot is:
 
-Aurora was created to address the challenges students face with traditional educational tools, often lacking personalization, interactivity, and emotional support. The company's AI-powered chatbot serves as a personalized learning companion, offering tailored tools and resources to make studying and learning more effective and enjoyable.
+- Fully developed in Python
+- Integrated with an SQLlite database to store users data.
+- Enhanced with a semantic router to better understand and label user intentions.
+- Enhanced with RAG (Retrieval-Augmented Generation) to leverage students imputed pdf's of class notes and textbooks.
+- Delivered through a Streamlit frontend.
+</p>
+<br/ >
+<p align="center"> <img width="631" height="353" alt="aurora3" src="https://github.com/user-attachments/assets/daeff52f-79dc-4e74-96f9-26beacd4d237" /> </p>
+<p align="center"> <strong>Figure 1:</strong> Example of chatbot UI.</p>
 
-  - **Made in collaboration with:** João Capitão, Maria Rodrigues, Vidhi Rajanikante and Yehor Malakhov
+<p align="center"> <img width="631" height="353" alt="aurora5" src="https://github.com/user-attachments/assets/a61f67ac-b925-427d-8706-140ac1007523" /></p>
+<p align="center"> <strong>Figure 2:</strong> Example of chatbot response to student intention.</p>
+
+<p align="center"> <img width="631" height="353" alt="aurora2" src="https://github.com/user-attachments/assets/00e2d607-8f69-4ad5-a6ba-477b529b2a53" /></p>
+<p align="center"> <strong>Figure 3:</strong> Example of user account creation process, whose information will be passed to the model.</p>
+<br/ >
+
+  - **Made in collaboration with:** [João Capitão](https://www.linkedin.com/in/joao-capitao/), [Maria Rodrigues](https://www.linkedin.com/in/maria-rodrigues2223/), [Vidhi Rajanikante](https://www.linkedin.com/in/vidhi-rajanikante/), [Yehor Malakhov](https://www.linkedin.com/in/yehor-malakhov/).
   - **Check our website:** https://aurora4youcp.wixsite.com/aurora
-</br>
+
+
 <p align="center"> ⬇️ Check more projects ⬇️ </p>
 
 ---
